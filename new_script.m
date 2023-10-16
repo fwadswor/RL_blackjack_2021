@@ -1,5 +1,3 @@
-%Trying to fix this mf
-
 clear all
 
 numAct = 5;
